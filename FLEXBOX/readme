@@ -1,0 +1,24 @@
+
+
+Fles direction 
+ROW 
+COLUMN 
+ROW-REVERSE 
+COLUMN - REVERSE 
+
+//FLEX WRAP 
+WRAP 
+WRAP REVERSE 
+NOWRAP 
+NOWRAP = non declare 
+
+--> FLEX FLOW 
+
+// justify content 
+
+conter = alinho todos ao centro 
+flex - start = alinho todos no começo 
+flex-end = alinhp todos no final 
+space-between = distancio o maximo possivel 
+space-around = distancia das bordas e os elementos o maximo posisvel 
+space-evenly = distancia as bordas e os elementos igualemnete o 
